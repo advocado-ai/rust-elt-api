@@ -1,1 +1,11 @@
 /target
+
+# Local environment — never commit
+.env
+.env.*
+
+# Raw data files — download with the curl command in _docs/data-sources/architecture.md
+_data/*.csv
+_data/*.json
+# Keep fixtures (small, hand-picked rows committed for offline unit tests)
+!_data/fixtures/
