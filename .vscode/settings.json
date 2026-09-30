@@ -25,7 +25,8 @@
         "titleBar.inactiveBackground": "#964b0099",
         "titleBar.inactiveForeground": "#e7e7e799",
         "activityBar.activeBorder": "#e7e7e7",
-        "activityBarTop.activeBorder": "#e7e7e7"
+        "activityBarTop.activeBorder": "#e7e7e7",
+        "statusBar.inactiveBackground": "#964b00"
     },
     "peacock.color": "964B00",
     "python-envs.defaultEnvManager": "ms-python.python:conda",
